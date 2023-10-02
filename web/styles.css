@@ -152,3 +152,33 @@ footer {
         font-size: 16px;
     }
 }
+.socialIcons{
+    display: flex;
+    justify-content: center;
+  }
+  
+  .socialIcons a{
+    text-decoration: none;
+    padding: 10px;
+    background-color: white;
+    margin: 10px;
+    border-radius: 50%;
+  }
+  
+  .socialIcons a i{
+    font-size: 1.5em;
+    color: rgb(1, 22, 45);
+    opacity: 0.9;
+  }
+  
+  .socialIcons a:hover{
+    background-color:#020b17 ;
+    transition: 0.5s;
+  }
+  
+  .socialIcons a:hover i{
+    color: white;
+    transition: 0.5s;
+  }
+ 
+ 
