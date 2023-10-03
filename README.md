@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Welcome to the [Your College Coding Club] Hacktoberfest Repository! This repository is part of the global Hacktoberfest event, where open source enthusiasts come together to contribute to various projects. We encourage you to join us in this celebration of open source and contribute to our club's projects.
+Welcome to the QuestIT VESIT Hacktoberfest Repository! This repository is part of the global Hacktoberfest event, where open source enthusiasts come together to contribute to various projects. We encourage you to join us in this celebration of open source and contribute to our club's projects.
 
 ## Getting Started
 
